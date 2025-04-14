@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Question Component', 'description': 'The Question Component is responsible for displaying each quiz question and its corresponding answer options. It allows users to select an answer and navigates to the next question upon selection.', 'framework': 'React JS', 'interfaces': '', 'algorithms': '', 'pseudocode': '', 'figma_components': []}",
+  "tasks": {},
+  "next_task_id": 1
+}
